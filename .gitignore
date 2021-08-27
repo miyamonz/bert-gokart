@@ -1,0 +1,8 @@
+./tmp
+download
+
+# trainer
+./results
+
+# gokart
+./resources/
