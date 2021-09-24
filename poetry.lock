@@ -500,7 +500,7 @@ test-win = ["pytest", "pytest-rerunfailures", "mock", "cython", "nmslib", "pyemd
 
 [[package]]
 name = "gokart"
-version = "1.0.2"
+version = "1.0.5"
 description = "Gokart solves reproducibility, task dependencies, constraints of good code, and ease of use for Machine Learning Pipeline. [Documentation](https://gokart.readthedocs.io/en/latest/)"
 category = "main"
 optional = false
@@ -2567,8 +2567,8 @@ gensim = [
     {file = "gensim-3.8.3.tar.gz", hash = "sha256:786adb0571f75114e9c5f7a31dd2e6eb39a9791f22c8757621545e2ded3ea367"},
 ]
 gokart = [
-    {file = "gokart-1.0.2-py3-none-any.whl", hash = "sha256:9947a2af7320fae93a34fa3be6816f2d1f17a88882a45211412db80f9c32a96e"},
-    {file = "gokart-1.0.2.tar.gz", hash = "sha256:a8ff83fcf815913d066f362a309c16ff5a95b0aace560fb7b8e1d74ad947c9da"},
+    {file = "gokart-1.0.5-py3-none-any.whl", hash = "sha256:da39397e63a713100d674c4f50107bc01b340be5819f1c5a05bf8381de4aea91"},
+    {file = "gokart-1.0.5.tar.gz", hash = "sha256:9db27629d8f6ced02ab74d6a1587a128bd377d65bcb48c9324aff1b2a8520312"},
 ]
 google-api-core = [
     {file = "google-api-core-2.0.0.tar.gz", hash = "sha256:bd9eb0709f4e10dd6fddb32fd0788a190b434426c258be6e00ef40da136d768d"},
